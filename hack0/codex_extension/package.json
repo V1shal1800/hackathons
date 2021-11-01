@@ -23,7 +23,7 @@
 			},
 			{
 				"command": "extension.explainCode",
-				"title": "Explain code"
+				"title": "Explain Code"
 			}
 		],
 		"menus": {

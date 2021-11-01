@@ -3,7 +3,7 @@ const axios = require("axios");
 const https = require("https");
 // TODO: replace authToken with your own openAI authorization token.
 const authToken = "authToken"
-// TODO @nikhil @violex fix security issue before releasing to public!!!!
+// TODO: fix security vulnerability 
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0'
 
 // NLToCode() translates natural language into code. 
