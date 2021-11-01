@@ -23,7 +23,11 @@
 			},
 			{
 				"command": "extension.explainCode",
+<<<<<<< HEAD
 				"title": "Explain Code"
+=======
+				"title": "Explain code"
+>>>>>>> 2b65e03 (hack0 started code)
 			}
 		],
 		"menus": {
