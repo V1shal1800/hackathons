@@ -2,7 +2,7 @@ const vscode = require("vscode");
 const axios = require("axios");
 const https = require("https");
 // TODO: replace authToken with your own openAI authorization token.
-const authToken = "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"
+const authToken = "authToken"
 // TODO @nikhil @violex fix security issue before releasing to public!!!!
 process.env.NODE_TLS_REJECT_UNAUTHORIZED = '0'
 
